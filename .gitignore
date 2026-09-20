@@ -1,0 +1,24 @@
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Java / Maven
+**/target/
+*.class
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Node / React
+**/node_modules/
+**/dist/
+**/build/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
